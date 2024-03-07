@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "65e9542c0c177ca66b2950b9"
+  },
+  "foodItemName": "Salmon Sushi Roll",
+  "foodGroup": "Seafood",
+  "description": "A classic sushi roll with fresh salmon, rice, and seaweed",
+  "nutritionalInformation": "Rich in omega-3 fatty acids, protein, and essential minerals",
+  "servingSize": "1 roll",
+  "allergens": "Fish, seaweed",
+  "ingredients": "Salmon, rice, seaweed, soy sauce, wasabi, pickled ginger",
+  "preparationMethods": "Rolling and slicing",
+  "certifications": "Sustainably sourced seafood",
+  "countryOfOrigin": "Japan",
+  "brandOrManufacturer": "Sushi Master",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "Supports brain health and provides a good source of antioxidants",
+  "bestPractices": "Consume immediately for optimal taste",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9543d0c177ca66b2950bb"
+  },
+  "foodItemName": "Chicken Caesar Salad",
+  "foodGroup": "Poultry and Vegetables",
+  "description": "A classic salad with grilled chicken, romaine lettuce, croutons, and Caesar dressing",
+  "nutritionalInformation": "High in protein, vitamins, and minerals",
+  "servingSize": "1 bowl",
+  "allergens": "Gluten (from croutons)",
+  "ingredients": "Grilled chicken, romaine lettuce, croutons, Parmesan cheese, Caesar dressing",
+  "preparationMethods": "Grilling chicken, tossing ingredients, and dressing",
+  "certifications": "Organic greens",
+  "countryOfOrigin": "United States",
+  "brandOrManufacturer": "Fresh Greens",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "Provides a balanced mix of nutrients and supports muscle health",
+  "bestPractices": "Serve chilled",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9544e0c177ca66b2950bd"
+  },
+  "foodItemName": "Vegetarian Quinoa Bowl",
+  "foodGroup": "Grains and Vegetables",
+  "description": "A nourishing bowl with quinoa, roasted vegetables, and a tahini dressing",
+  "nutritionalInformation": "Rich in protein, fiber, and essential vitamins",
+  "servingSize": "1 bowl",
+  "allergens": "None",
+  "ingredients": "Quinoa, mixed vegetables, tahini, olive oil, herbs",
+  "preparationMethods": "Cooking quinoa, roasting vegetables, and drizzling with dressing",
+  "certifications": "Non-GMO",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Wholesome Bowls",
+  "dietaryRestrictions": "Vegan",
+  "healthBenefits": "Supports digestion and provides sustained energy",
+  "bestPractices": "Enjoy warm or cold",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954590c177ca66b2950bf"
+  },
+  "foodItemName": "Mango Smoothie",
+  "foodGroup": "Beverages and Fruits",
+  "description": "A refreshing smoothie with ripe mango, yogurt, and a hint of honey",
+  "nutritionalInformation": "High in vitamins, antioxidants, and probiotics",
+  "servingSize": "1 glass",
+  "allergens": "Dairy (from yogurt)",
+  "ingredients": "Mango, yogurt, honey, ice",
+  "preparationMethods": "Blending ingredients until smooth",
+  "certifications": "None",
+  "countryOfOrigin": "Tropical regions",
+  "brandOrManufacturer": "Fresh Blends",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "Promotes immune health and aids digestion",
+  "bestPractices": "Serve chilled",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954650c177ca66b2950c1"
+  },
+  "foodItemName": "Caprese Sandwich",
+  "foodGroup": "Dairy and Vegetables",
+  "description": "A delightful sandwich with fresh mozzarella, tomatoes, basil, and balsamic glaze",
+  "nutritionalInformation": "Good source of calcium, vitamins, and antioxidants",
+  "servingSize": "1 sandwich",
+  "allergens": "Dairy (from mozzarella), gluten (from bread)",
+  "ingredients": "Mozzarella cheese, tomatoes, basil, balsamic glaze, whole-grain bread",
+  "preparationMethods": "Assembling ingredients between bread slices",
+  "certifications": "None",
+  "countryOfOrigin": "Italy",
+  "brandOrManufacturer": "Gourmet Bites",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "Supports bone health and provides a burst of flavor",
+  "bestPractices": "Serve at room temperature",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9546f0c177ca66b2950c3"
+  },
+  "foodItemName": "Oatmeal with Berries",
+  "foodGroup": "Grains and Fruits",
+  "description": "A hearty breakfast bowl with oats, mixed berries, and a drizzle of honey",
+  "nutritionalInformation": "High in fiber, antioxidants, and essential nutrients",
+  "servingSize": "1 bowl",
+  "allergens": "None",
+  "ingredients": "Oats, mixed berries, honey",
+  "preparationMethods": "Cooking oats and topping with berries and honey",
+  "certifications": "Whole grains",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "NutriBowl",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "Promotes digestive health and provides sustained energy",
+  "bestPractices": "Serve warm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954800c177ca66b2950c5"
+  },
+  "foodItemName": "Spinach and Feta Stuffed Chicken Breast",
+  "foodGroup": "Poultry and Dairy",
+  "description": "A savory chicken breast stuffed with spinach and feta cheese",
+  "nutritionalInformation": "High in protein, calcium, and iron",
+  "servingSize": "1 chicken breast",
+  "allergens": "Dairy (from feta)",
+  "ingredients": "Chicken breast, spinach, feta cheese, herbs",
+  "preparationMethods": "Stuffing and baking",
+  "certifications": "Free-range chicken",
+  "countryOfOrigin": "Local Farm",
+  "brandOrManufacturer": "Farm Fresh Meats",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "Supports muscle health and provides a dose of calcium",
+  "bestPractices": "Cook until internal temperature reaches 165°F (74°C)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954a90c177ca66b2950c7"
+  },
+  "foodItemName": "Pineapple Fried Rice",
+  "foodGroup": "Grains and Fruits",
+  "description": "A flavorful fried rice dish with pineapple, vegetables, and cashews",
+  "nutritionalInformation": "Rich in vitamins, minerals, and healthy fats",
+  "servingSize": "1 plate",
+  "allergens": "Tree nuts (cashews)",
+  "ingredients": "Rice, pineapple, vegetables, cashews, soy sauce",
+  "preparationMethods": "Cooking rice, stir-frying ingredients",
+  "certifications": "None",
+  "countryOfOrigin": "Thailand",
+  "brandOrManufacturer": "Exotic Flavors",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "Provides a tropical twist and a mix of essential nutrients",
+  "bestPractices": "Serve hot",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954b40c177ca66b2950c9"
+  },
+  "foodItemName": "Greek Yogurt Parfait",
+  "foodGroup": "Dairy and Fruits",
+  "description": "A layered dessert with Greek yogurt, granola, and fresh berries",
+  "nutritionalInformation": "High in protein, probiotics, and antioxidants",
+  "servingSize": "1 parfait",
+  "allergens": "Dairy (from yogurt), gluten (from granola)",
+  "ingredients": "Greek yogurt, granola, mixed berries, honey",
+  "preparationMethods": "Layering ingredients in a glass or bowl",
+  "certifications": "Probiotic-rich yogurt",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Yogurt Delights",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "Supports gut health and provides a sweet yet healthy treat",
+  "bestPractices": "Serve chilled",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954c00c177ca66b2950cb"
+  },
+  "foodItemName": "Chickpea and Spinach Curry",
+  "foodGroup": "Legumes and Vegetables",
+  "description": "A flavorful curry with chickpeas, spinach, and aromatic spices",
+  "nutritionalInformation": "High in protein, fiber, and essential minerals",
+  "servingSize": "1 bowl",
+  "allergens": "None",
+  "ingredients": "Chickpeas, spinach, tomatoes, onions, curry spices",
+  "preparationMethods": "Cooking chickpeas and vegetables in a curry sauce",
+  "certifications": "Vegetarian",
+  "countryOfOrigin": "India",
+  "brandOrManufacturer": "Spice Haven",
+  "dietaryRestrictions": "Vegan",
+  "healthBenefits": "Promotes satiety and provides a variety of nutrients",
+  "bestPractices": "Serve with rice or naan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954f60c177ca66b2950ce"
+  },
+  "foodItemName": "Shrimp Stir-Fry",
+  "foodGroup": "Seafood and Vegetables",
+  "description": "A quick and tasty stir-fry with shrimp, colorful vegetables, and a savory sauce",
+  "nutritionalInformation": "High in protein, vitamins, and omega-3 fatty acids",
+  "servingSize": "1 plate",
+  "allergens": "Shellfish, soy",
+  "ingredients": "Shrimp, broccoli, bell peppers, soy sauce, ginger, garlic",
+  "preparationMethods": "Stir-frying ingredients in a wok",
+  "certifications": "Sustainably sourced seafood",
+  "countryOfOrigin": "Vietnam",
+  "brandOrManufacturer": "Ocean Delights",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "Supports brain health and provides a burst of flavor",
+  "bestPractices": "Serve hot over rice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e954ff0c177ca66b2950d0"
+  },
+  "foodItemName": "Mushroom Risotto",
+  "foodGroup": "Grains and Fungi",
+  "description": "Creamy risotto made with arborio rice, mushrooms, and Parmesan cheese",
+  "nutritionalInformation": "Rich in carbohydrates, umami flavors, and calcium",
+  "servingSize": "1 bowl",
+  "allergens": "Dairy (from cheese)",
+  "ingredients": "Arborio rice, mushrooms, onion, Parmesan cheese, broth",
+  "preparationMethods": "Slow-cooking rice with mushrooms and adding cheese",
+  "certifications": "None",
+  "countryOfOrigin": "Italy",
+  "brandOrManufacturer": "Gourmet Risottos",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "Provides a comforting and satisfying meal",
+  "bestPractices": "Serve immediately for optimal creaminess",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955090c177ca66b2950d2"
+  },
+  "foodItemName": "Chocolate Banana Smoothie Bowl",
+  "foodGroup": "Dairy and Fruits",
+  "description": "A decadent smoothie bowl with chocolate, banana, and crunchy toppings",
+  "nutritionalInformation": "Rich in potassium, antioxidants, and a touch of indulgence",
+  "servingSize": "1 bowl",
+  "allergens": "Dairy (from yogurt), nuts",
+  "ingredients": "Banana, chocolate yogurt, granola, almonds, chocolate chips",
+  "preparationMethods": "Blending and topping with crunchy ingredients",
+  "certifications": "None",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Choco Bliss",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "A delightful treat with a balance of flavors and textures",
+  "bestPractices": "Enjoy as a dessert or breakfast",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955150c177ca66b2950d4"
+  },
+  "foodItemName": "Eggplant Parmesan",
+  "foodGroup": "Vegetables and Dairy",
+  "description": "Sliced and breaded eggplant baked with marinara sauce and mozzarella cheese",
+  "nutritionalInformation": "Good source of fiber, vitamins, and calcium",
+  "servingSize": "1 serving",
+  "allergens": "Dairy (from cheese), gluten (from breading)",
+  "ingredients": "Eggplant, marinara sauce, mozzarella cheese, breadcrumbs",
+  "preparationMethods": "Layering ingredients and baking until golden",
+  "certifications": "None",
+  "countryOfOrigin": "Italy",
+  "brandOrManufacturer": "Homestyle Bakes",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "A delicious way to enjoy eggplant with a cheesy twist",
+  "bestPractices": "Serve hot with a side of salad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9551e0c177ca66b2950d6"
+  },
+  "foodItemName": "Green Tea and Honey Infused Chicken",
+  "foodGroup": "Poultry and Beverages",
+  "description": "Grilled chicken marinated in a green tea and honey glaze",
+  "nutritionalInformation": "High in protein, antioxidants, and a touch of sweetness",
+  "servingSize": "1 piece",
+  "allergens": "None",
+  "ingredients": "Chicken breast, green tea, honey, soy sauce",
+  "preparationMethods": "Marinating and grilling to perfection",
+  "certifications": "None",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Tea-Infused Grill",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "A unique flavor profile with the goodness of green tea",
+  "bestPractices": "Grill until internal temperature reaches 165°F (74°C)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9554f0c177ca66b2950d9"
+  },
+  "foodItemName": "Vegetable Pad Thai",
+  "foodGroup": "Grains and Vegetables",
+  "description": "A popular Thai stir-fried noodle dish with a mix of colorful vegetables",
+  "nutritionalInformation": "High in complex carbohydrates, vitamins, and fiber",
+  "servingSize": "1 plate",
+  "allergens": "Peanuts, soy",
+  "ingredients": "Rice noodles, tofu, bean sprouts, peanuts, tamarind sauce",
+  "preparationMethods": "Stir-frying noodles and vegetables with sauce",
+  "certifications": "Vegan",
+  "countryOfOrigin": "Thailand",
+  "brandOrManufacturer": "Thai Delights",
+  "dietaryRestrictions": "Vegan",
+  "healthBenefits": "A tasty and satisfying plant-based meal",
+  "bestPractices": "Garnish with lime wedges and cilantro",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955570c177ca66b2950db"
+  },
+  "foodItemName": "Pesto Pasta with Cherry Tomatoes",
+  "foodGroup": "Grains and Vegetables",
+  "description": "Al dente pasta tossed in a basil pesto sauce with sweet cherry tomatoes",
+  "nutritionalInformation": "Good source of healthy fats, vitamins, and antioxidants",
+  "servingSize": "1 bowl",
+  "allergens": "Tree nuts (from pesto), gluten (from pasta)",
+  "ingredients": "Pasta, basil pesto, cherry tomatoes, Parmesan cheese",
+  "preparationMethods": "Boiling pasta and tossing with sauce and tomatoes",
+  "certifications": "None",
+  "countryOfOrigin": "Italy",
+  "brandOrManufacturer": "Pasta Perfection",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "A flavorful and comforting Italian dish",
+  "bestPractices": "Serve warm with extra Parmesan on top",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955600c177ca66b2950dd"
+  },
+  "foodItemName": "Chia Seed Pudding",
+  "foodGroup": "Dairy and Seeds",
+  "description": "A creamy pudding made with chia seeds, almond milk, and fresh fruit",
+  "nutritionalInformation": "High in omega-3 fatty acids, fiber, and vitamins",
+  "servingSize": "1 bowl",
+  "allergens": "Nuts (from almond milk)",
+  "ingredients": "Chia seeds, almond milk, honey, berries",
+  "preparationMethods": "Mixing ingredients and refrigerating overnight",
+  "certifications": "Non-GMO",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Seed Bliss",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "A nutritious and delicious dessert or breakfast option",
+  "bestPractices": "Top with additional fruit before serving",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9556b0c177ca66b2950df"
+  },
+  "foodItemName": "Teriyaki Tofu Bowl",
+  "foodGroup": "Legumes and Vegetables",
+  "description": "Crispy tofu cubes glazed in teriyaki sauce served with steamed rice and broccoli",
+  "nutritionalInformation": "High in protein, iron, and essential amino acids",
+  "servingSize": "1 bowl",
+  "allergens": "Soy",
+  "ingredients": "Tofu, teriyaki sauce, rice, broccoli",
+  "preparationMethods": "Baking tofu and assembling the bowl",
+  "certifications": "Vegan",
+  "countryOfOrigin": "Japan",
+  "brandOrManufacturer": "Tofu Fusion",
+  "dietaryRestrictions": "Vegan",
+  "healthBenefits": "A satisfying plant-based meal with Asian-inspired flavors",
+  "bestPractices": "Garnish with sesame seeds and green onions",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955760c177ca66b2950e1"
+  },
+  "foodItemName": "Cobb Salad",
+  "foodGroup": "Poultry and Vegetables",
+  "description": "A hearty salad with grilled chicken, avocado, bacon, and blue cheese",
+  "nutritionalInformation": "High in protein, healthy fats, and vitamins",
+  "servingSize": "1 bowl",
+  "allergens": "Dairy (from blue cheese)",
+  "ingredients": "Grilled chicken, avocado, bacon, blue cheese, lettuce, tomatoes",
+  "preparationMethods": "Grilling chicken, chopping ingredients, and tossing in a bowl",
+  "certifications": "None",
+  "countryOfOrigin": "United States",
+  "brandOrManufacturer": "Gourmet Greens",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "A satisfying and flavorful salad with a variety of textures",
+  "bestPractices": "Serve with a side of balsamic vinaigrette",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9558f0c177ca66b2950e3"
+  },
+  "foodItemName": "Vegan Lentil Soup",
+  "foodGroup": "Legumes and Vegetables",
+  "description": "A hearty soup made with lentils, vegetables, and aromatic spices",
+  "nutritionalInformation": "High in protein, fiber, and essential nutrients",
+  "servingSize": "1 bowl",
+  "allergens": "None",
+  "ingredients": "Lentils, carrots, celery, onions, garlic, vegetable broth",
+  "preparationMethods": "Simmering ingredients in a pot",
+  "certifications": "Vegan",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Soup Sensation",
+  "dietaryRestrictions": "Vegan",
+  "healthBenefits": "A comforting and nutritious plant-based soup",
+  "bestPractices": "Garnish with fresh herbs before serving",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9559b0c177ca66b2950e5"
+  },
+  "foodItemName": "Hawaiian Poke Bowl",
+  "foodGroup": "Seafood and Vegetables",
+  "description": "A bowl with marinated raw fish, rice, and a variety of toppings",
+  "nutritionalInformation": "High in omega-3 fatty acids, protein, and vitamins",
+  "servingSize": "1 bowl",
+  "allergens": "Fish, soy",
+  "ingredients": "Raw fish (such as tuna or salmon), rice, seaweed, avocado, sesame seeds",
+  "preparationMethods": "Marinating fish and assembling the bowl",
+  "certifications": "Sustainably sourced seafood",
+  "countryOfOrigin": "Hawaii",
+  "brandOrManufacturer": "Pacific Catch",
+  "dietaryRestrictions": "None",
+  "healthBenefits": "A fresh and flavorful dish inspired by Hawaiian cuisine",
+  "bestPractices": "Top with your favorite sauce and enjoy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955a30c177ca66b2950e7"
+  },
+  "foodItemName": "Sweet Potato and Black Bean Burrito",
+  "foodGroup": "Grains, Legumes, and Vegetables",
+  "description": "A satisfying burrito filled with roasted sweet potatoes, black beans, and vegetables",
+  "nutritionalInformation": "High in fiber, protein, and vitamins",
+  "servingSize": "1 burrito",
+  "allergens": "None",
+  "ingredients": "Sweet potatoes, black beans, whole-grain tortilla, salsa, guacamole",
+  "preparationMethods": "Roasting sweet potatoes and assembling the burrito",
+  "certifications": "Non-GMO",
+  "countryOfOrigin": "Mexico",
+  "brandOrManufacturer": "Burrito Bliss",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "A delicious and nutritious plant-based burrito option",
+  "bestPractices": "Serve with a side of fresh lime wedges",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955aa0c177ca66b2950e9"
+  },
+  "foodItemName": "Raspberry Almond Chia Pudding",
+  "foodGroup": "Dairy and Seeds",
+  "description": "A delightful chia pudding infused with almond milk and topped with fresh raspberries",
+  "nutritionalInformation": "Rich in omega-3 fatty acids, antioxidants, and calcium",
+  "servingSize": "1 bowl",
+  "allergens": "Nuts (from almond milk)",
+  "ingredients": "Chia seeds, almond milk, honey, raspberries, sliced almonds",
+  "preparationMethods": "Mixing ingredients and refrigerating overnight",
+  "certifications": "Non-GMO",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Berry Bliss",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "A tasty and nutritious dessert or breakfast option",
+  "bestPractices": "Top with additional berries before serving",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e955b20c177ca66b2950eb"
+  },
+  "foodItemName": "Raspberry Almond Chia Pudding",
+  "foodGroup": "Dairy and Seeds",
+  "description": "A delightful chia pudding infused with almond milk and topped with fresh raspberries",
+  "nutritionalInformation": "Rich in omega-3 fatty acids, antioxidants, and calcium",
+  "servingSize": "1 bowl",
+  "allergens": "Nuts (from almond milk)",
+  "ingredients": "Chia seeds, almond milk, honey, raspberries, sliced almonds",
+  "preparationMethods": "Mixing ingredients and refrigerating overnight",
+  "certifications": "Non-GMO",
+  "countryOfOrigin": "Various",
+  "brandOrManufacturer": "Berry Bliss",
+  "dietaryRestrictions": "Vegetarian",
+  "healthBenefits": "A tasty and nutritious dessert or breakfast option",
+  "bestPractices": "Top with additional berries before serving",
+  "__v": 0
+}]
